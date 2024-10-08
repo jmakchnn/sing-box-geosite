@@ -1,2 +1,2 @@
 https://adrules.top/adrules_domainset.txt
-https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-a1ds.list
+https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-ads.list
