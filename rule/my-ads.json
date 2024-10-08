@@ -1,4 +1,31 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com",
+        "a.7726f27549de609644ca54296d723a4704ca5663d4e6072fc21ff4c4.com",
+        "a.9803b63f1b6985c3d2fd33dc4acf0d138e6b830271b0716489f7c0df.com",
+        "a.appbaqend.com",
+        "a4.applovin.com",
+        "adsmetadata.mobileadexchange.net",
+        "adsmetadata.startappservice.com",
+        "cdn.mobilefuse.com",
+        "d.applovin.com",
+        "d26xw8rp6mlgfg.cloudfront.net",
+        "fid.agkn.com",
+        "firebase-settings.crashlytics.com",
+        "firebaseinstallations.googleapis.com",
+        "info.startappservice.com",
+        "ms.applovin.com",
+        "rt.applovin.com",
+        "s.everestop.io",
+        "sdk-exchange.startappservice.com",
+        "sentry.appodeal.com",
+        "torrentsearch.shop",
+        "x.everestop.io",
+        "yandex.ru"
+      ]
+    }
+  ],
   "version": 1
 }
