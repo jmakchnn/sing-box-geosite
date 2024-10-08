@@ -1,2 +1,3 @@
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-ads.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/adguard.list
