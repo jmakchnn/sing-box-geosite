@@ -1,5 +1,2 @@
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-ads.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/adguard.list
-https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/myads.json
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list
