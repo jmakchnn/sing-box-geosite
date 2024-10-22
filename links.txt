@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/myproxy.list
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/refs/heads/release/reject.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
