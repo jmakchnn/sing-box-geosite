@@ -27,8 +27,8 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
-          repository: 'zacred0rryn/srs-custom'
-          ref: 'yaml2json'
+          repository: 'jmakchnn/sing-box-geosite'
+          ref: 'y2j'
           path: 'y2j'
 
       - name: Set up Python
