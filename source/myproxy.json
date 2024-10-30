@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "520click.com",
+        "googleapis.cn",
+        "googlesyndication.com",
+        "odysseyplus.site",
+        "xtremetop100.com"
+      ]
+    }
+  ],
+  "version": 1
+}
