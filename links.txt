@@ -1,5 +1,0 @@
-https://adrules.top/adrules_domainset.txt
-https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-ads.list
-https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/myproxy.list
-https://raw.githubusercontent.com/Loyalsoldier/clash-rules/refs/heads/release/reject.txt
-https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml
