@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "clash.razord.top",
+        "d.metacubex.one",
+        "torrentio.strem.fun",
+        "www.tvyb03.com",
+        "yacd.haishan.me",
+        "yacd.metacubex.one"
+      ]
+    }
+  ],
+  "version": 1
+}
