@@ -1,0 +1,39 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com",
+        "a.7726f27549de609644ca54296d723a4704ca5663d4e6072fc21ff4c4.com",
+        "a.9803b63f1b6985c3d2fd33dc4acf0d138e6b830271b0716489f7c0df.com",
+        "a.a9e5f222f1029c111ccc360e6a6dc2bdb29fcb9b684736946ab10e90.com",
+        "a.appbaqend.com",
+        "a.bf1867155f7f096e65d072ce17f16ff12b0e5881d9fa0ee8c05b1e24.com",
+        "a.eee3707b73b1344ab114906b842c4d0b76c8e6d2613538819c66615a.com",
+        "a4.applovin.com",
+        "adsmetadata.mobileadexchange.net",
+        "adsmetadata.startappservice.com",
+        "c.amazon-adsystem.com",
+        "cdn.mobilefuse.com",
+        "d.applovin.com",
+        "d1tru86qrby720.cloudfront.net",
+        "d26xw8rp6mlgfg.cloudfront.net",
+        "fid.agkn.com",
+        "firebase-settings.crashlytics.com",
+        "firebaseinstallations.googleapis.com",
+        "info.startappservice.com",
+        "mads.amazon-adsystem.com",
+        "ms.applovin.com",
+        "req.startappservice.com",
+        "rt.applovin.com",
+        "s.amazon-adsystem.com",
+        "s.everestop.io",
+        "sdk-exchange.startappservice.com",
+        "sentry.appodeal.com",
+        "torrentsearch.shop",
+        "x.everestop.io",
+        "yandex.ru"
+      ]
+    }
+  ],
+  "version": 2
+}
