@@ -31,7 +31,7 @@ jobs:
         run: bash ./build-adguard.sh
       
       - name: Release
-        run: bash .github/release-rule-set.sh
+        run: bash .github/workflows/release-rule-set.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
