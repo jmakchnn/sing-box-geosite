@@ -14,7 +14,7 @@ cd output
 git init
 git config --local user.email "github-action@users.noreply.github.com"
 git config --local user.name "GitHub Action"
-git remote add origin https://github-action:$GITHUB_TOKEN@github.com/xmdhs/sing-box-ruleset.git
+git remote add origin https://github-action:$GITHUB_TOKEN@github.com/jmakchnn/sing-box-geosite.git
 git branch -M rule-set
 git add .
 git commit -m "Update rule-set"
