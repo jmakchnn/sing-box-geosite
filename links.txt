@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/my-ads.list
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/myproxy.list
 https://raw.githubusercontent.com/jmakchnn/jmakchnn.github.io/refs/heads/main/mydirect.list
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/Filters/AWAvenue-Ads-Rule-Clash-Classical.yaml
